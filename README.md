@@ -8,13 +8,13 @@
 ### VirtualBox + Vagrant Setup
 >For initual setup of VMs please see my other guide [here](https://github.com/louismin/local-webdev-environment).
 
+**Make sure to configure your VM using the files given in this repository- not this [one](https://github.com/louismin/local-webdev-environment).**
+
 ### TL;DR
 >A quick setup to configure your guest machine to render web pages locally and to tunnel live using the web technology- ngrok.
 
-**Make sure to configure your VM using the files given in this repository- not this [one](https://github.com/louismin/local-webdev-environment).**
-
 The following configuration will install the necessary packages and dependencies to locally run web pages.
-You can check if the initial setup was correctly installed typing:
+You can check if the initial setup was correctly installed by typing:
 ```
 http://localhost:4567
 ```
